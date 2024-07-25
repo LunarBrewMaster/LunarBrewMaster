@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @LunarBrewMaster
-- 👀 I’m interested in coffee and cakes.
-- 🌱 I’m currently learning how to use github?
+- 👋 Hi, I’m @jynyangg
 - 💞️ I’m looking to collaborate on big projects.
 - 📫 How to reach me ...
 
